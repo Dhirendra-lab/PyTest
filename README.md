@@ -1,4 +1,6 @@
-Use below command to exectue the pytest
+1. Install dependencies
+  python -m pip install -r  requirement.txt
 
-python -m pip install pytest
+2. Use below command to exectue the pytest
+  python -m pip install pytest
 
